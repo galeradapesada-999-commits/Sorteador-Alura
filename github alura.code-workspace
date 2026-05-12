@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "Apresentaçao"
+		},
+		{
+			"path": "Meu site"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Apresentaçao"
+	}
+}
